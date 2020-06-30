@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Canete BIC preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook LG",
+      "price": 1500.89
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20+ Ultra",
+      "price": "7500.89"
+    },
+    {
+      "id": 4,
+      "name": "Geladeira",
+      "price": "1900"
+    },
+    {
+      "name": "Lápis preto",
+      "price": "2.50",
+      "id": 7
+    },
+    {
+      "name": "Lapiseira",
+      "price": "1.95",
+      "id": 8
+    },
+    {
+      "name": "Borracha",
+      "price": "0.99",
+      "id": 9
+    },
+    {
+      "name": "Caneta Bic",
+      "price": "2.99",
+      "id": 10
+    },
+    {
+      "name": "Caneta Bic",
+      "price": "2.99",
+      "id": 11
+    }
+  ]
+}
